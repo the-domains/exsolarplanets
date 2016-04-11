@@ -1,0 +1,28 @@
+name: exsolarplanets
+favicon: null
+layout_spectrum: 0.5943449318874627
+typography_spectrum: 0.9056305529084057
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.5712571223266423
+  lightness: 0.7656030817888677
+  saturation: 0.8256692681461573
+  rhythmicContrast: 0.010700064478442073
+purpose: []
